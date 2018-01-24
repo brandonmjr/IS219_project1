@@ -507,3 +507,10 @@ input {
 .row-margin-bottom {
     margin-bottom: 20px;
 }
+.p1{left: 30px !important;}
+.p2{left: 60px !important;}
+.p3{left: 90px !important;}
+.portfolio-item {
+    width: 224px !important;
+    border: 1px white solid;
+}
